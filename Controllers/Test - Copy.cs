@@ -8,7 +8,7 @@ namespace MagicVilla_VillaAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Scorching", "Scorching", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
